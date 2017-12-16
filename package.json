@@ -1,5 +1,5 @@
 {
-  "name": "angular-selectize2",
+  "name": "angular-selectize",
   "description": "skarface Fork of: machineboy2045/angular-selectize",
   "main": "dist/angular-selectize.js",
   "version": "v3.1.0",
@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/skarface/angular-selectize",
   "dependencies": {
+    "angular": "^1.6.x",
     "selectize": ">=0.12.1"
   }
 }
