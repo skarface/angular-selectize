@@ -1,12 +1,11 @@
+'use strict';
+
 /**
  * Angular Selectize
  * https://github.com/machineboy2045/angular-selectize
  **/
 
-const angular = require('angular');
-const Selectize = require('selectize');
-
-export default angular.module('selectize', [])
+angular.module('selectize', [])
 .value('selectizeConfig', {})
 .directive("selectize", ['selectizeConfig', function(selectizeConfig) {
   return {
@@ -109,4 +108,4 @@ export default angular.module('selectize', [])
       });
     }
   };
-}]).name;
+}]);

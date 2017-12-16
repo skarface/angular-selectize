@@ -19,6 +19,7 @@
   "homepage": "https://github.com/skarface/angular-selectize",
   "dependencies": {
     "angular": "^1.6.x",
+    "jquery": "^3.2.1",
     "selectize": ">=0.12.1"
   }
 }
