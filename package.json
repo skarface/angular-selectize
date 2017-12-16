@@ -2,7 +2,7 @@
   "name": "angular-selectize2",
   "description": "skarface Fork of: machineboy2045/angular-selectize",
   "main": "dist/angular-selectize.js",
-  "version": "v3.0.2",
+  "version": "v3.1.0",
   "repository": {
     "type": "git",
     "url": "git@github.com:skarface/angular-selectize.git"
